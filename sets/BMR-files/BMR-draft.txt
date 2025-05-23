@@ -154,7 +154,7 @@
 			"name": "Jorrin's Blade",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
-			"type": "Creature — Soldier",
+			"type": "Creature — Human Pirate",
 			"collector_number": "31",
 			"image_uris": {
 				"en": "https://Flareporeon.github.io/sets/ATR-files/img/31_Jorrin's Blade.png"
@@ -294,7 +294,7 @@
 			"name": "Saproling Incubator",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Saproling",
+			"type": "Creature — Fungus",
 			"collector_number": "14",
 			"image_uris": {
 				"en": "https://Flareporeon.github.io/sets/ATR-files/img/14_Saproling Incubator.png"
@@ -455,9 +455,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Thopter",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Flareporeon.github.io/sets/ATR-files/img/7_Thopter.png"
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/8_Thopter.png"
 			}
 		},
 		{
@@ -465,19 +465,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Saproling",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Flareporeon.github.io/sets/ATR-files/img/4_Saproling.png"
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/5_Saproling.png"
 			}
 		},
 		{
 			"name": "Bird",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Creature — Bird",
-			"collector_number": "2",
+			"type": "Token Creature — Bird",
+			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Flareporeon.github.io/sets/ATR-files/img/2_Bird.png"
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/1_Bird.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Flareporeon.github.io/sets/ATR-files/img/6_Sword.png"
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/7_Sword.png"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Phoenix",
-			"collector_number": "1",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Flareporeon.github.io/sets/ATR-files/img/1_Phoenix.png"
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/3_Phoenix.png"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human Soldier",
-			"collector_number": "3",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Flareporeon.github.io/sets/ATR-files/img/3_Human Soldier.png"
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/2_Human Soldier.png"
 			}
 		},
 		{
@@ -515,9 +515,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Flareporeon.github.io/sets/ATR-files/img/5_Scrap.png"
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/6_Scrap.png"
+			}
+		},
+		{
+			"name": "Phoenix",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Phoenix",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/4_Phoenix.png"
 			}
 		},
 	]
