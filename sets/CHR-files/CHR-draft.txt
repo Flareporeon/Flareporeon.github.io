@@ -1,0 +1,32 @@
+[CustomCards]
+	[
+		{
+			"name": "Kani, Teller of Stories",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/1_Kani, Teller of Stories.png"
+			}
+		},
+		{
+			"name": "Shezari, Banished by Shadow",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Elf Monk",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/2_Shezari, Banished by Shadow.png"
+			}
+		},
+	]
+
+[rare(1)]
+	2 Kani, Teller of Stories
+	2 Shezari, Banished by Shadow
+[uncommon(4)]
+[common(7)]
+[wildcard(2)]
+	5 Kani, Teller of Stories
+	5 Shezari, Banished by Shadow
