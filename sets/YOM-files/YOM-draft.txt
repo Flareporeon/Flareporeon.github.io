@@ -1,0 +1,1124 @@
+[CustomCards]
+	[
+		{
+			"name": "Drainer of Hope",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/28_Drainer of Hope.png"
+			}
+		},
+		{
+			"name": "The Everyman's Guide",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/69_The Everyman's Guide.png"
+			}
+		},
+		{
+			"name": "Ravnican Titan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/78_Ravnican Titan.png"
+			}
+		},
+		{
+			"name": "Earthen Surge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/52_Earthen Surge.png"
+			}
+		},
+		{
+			"name": "It That Approaches",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/30_It That Approaches.png"
+			}
+		},
+		{
+			"name": "Barbed Devil",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Devil",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/63_Barbed Devil.png"
+			}
+		},
+		{
+			"name": "Jynn, Protector of the Nest",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Bird Ranger",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/75_Jynn, Protector of the Nest.png"
+			}
+		},
+		{
+			"name": "Rugged Tigress",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Cat Berserker",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/48_Rugged Tigress.png"
+			}
+		},
+		{
+			"name": "Darksteel's Ambition",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/88_Darksteel's Ambition.png"
+			}
+		},
+		{
+			"name": "Elvish Ranger",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Ranger",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/53_Elvish Ranger.png"
+			}
+		},
+		{
+			"name": "The Aegis Shield",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/85_The Aegis Shield.png"
+			}
+		},
+		{
+			"name": "Rathmar's Reclaimer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/57_Rathmar's Reclaimer.png"
+			}
+		},
+		{
+			"name": "Bog-Sworn Defender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Plant Skeleton",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/65_Bog-Sworn Defender.png"
+			}
+		},
+		{
+			"name": "Parental Dreadmaw",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/55_Parental Dreadmaw.png"
+			}
+		},
+		{
+			"name": "Elven Planner",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Elf Advisor",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/68_Elven Planner.png"
+			}
+		},
+		{
+			"name": "Brain Sprout",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/66_Brain Sprout.png"
+			}
+		},
+		{
+			"name": "Searching the Stories",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/9_Searching the Stories.png"
+			}
+		},
+		{
+			"name": "Broken Mimic",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/87_Broken Mimic.png"
+			}
+		},
+		{
+			"name": "Sneaky Thief",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/24_Sneaky Thief.png"
+			}
+		},
+		{
+			"name": "Orc Gourmand",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Orc Druid",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/36_Orc Gourmand.png"
+			}
+		},
+		{
+			"name": "Demon of the Ritual",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon Horror",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/27_Demon of the Ritual.png"
+			}
+		},
+		{
+			"name": "Pavel's Talisman",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/90_Pavel's Talisman.png"
+			}
+		},
+		{
+			"name": "Chandra's Bolt",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/41_Chandra's Bolt.png"
+			}
+		},
+		{
+			"name": "What May Come",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/25_What May Come.png"
+			}
+		},
+		{
+			"name": "It That Watches",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Horror",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/19_It That Watches.png"
+			}
+		},
+		{
+			"name": "Heroic Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/74_Heroic Knight.png"
+			}
+		},
+		{
+			"name": "Charged Dreadmaw",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/51_Charged Dreadmaw.png"
+			}
+		},
+		{
+			"name": "Xyn, Phasing Elite",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/13_Xyn, Phasing Elite.png"
+			}
+		},
+		{
+			"name": "Streetside Brawl",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/59_Streetside Brawl.png"
+			}
+		},
+		{
+			"name": "Capture Ball",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/1_Capture Ball.png"
+			}
+		},
+		{
+			"name": "Knowledge in Death",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/31_Knowledge in Death.png"
+			}
+		},
+		{
+			"name": "Frozen Over",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/71_Frozen Over.png"
+			}
+		},
+		{
+			"name": "Treebound Sliver",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Sliver",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/60_Treebound Sliver.png"
+			}
+		},
+		{
+			"name": "Fireburst",
+			"rarity": "rare",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/45_Fireburst.png"
+			}
+		},
+		{
+			"name": "Marauding Killer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/33_Marauding Killer.png"
+			}
+		},
+		{
+			"name": "Flicker Strike",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/16_Flicker Strike.png"
+			}
+		},
+		{
+			"name": "Inspiring Verse",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/3_Inspiring Verse.png"
+			}
+		},
+		{
+			"name": "Lurking Devout",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/32_Lurking Devout.png"
+			}
+		},
+		{
+			"name": "Thran Factory",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/93_Thran Factory.png"
+			}
+		},
+		{
+			"name": "Ice Block",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/18_Ice Block.png"
+			}
+		},
+		{
+			"name": "Bringer of Death",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/26_Bringer of Death.png"
+			}
+		},
+		{
+			"name": "A Fleeting Life",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/70_A Fleeting Life.png"
+			}
+		},
+		{
+			"name": "Goblin Wayfinder",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Goblin Scout",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/46_Goblin Wayfinder.png"
+			}
+		},
+		{
+			"name": "Coinshot",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/42_Coinshot.png"
+			}
+		},
+		{
+			"name": "Othrenn's Protection",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/5_Othrenn's Protection.png"
+			}
+		},
+		{
+			"name": "Gravetender",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Creature — Zombie Druid",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/72_Gravetender.png"
+			}
+		},
+		{
+			"name": "Thieving Rodent",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Mouse Rogue",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/81_Thieving Rodent.png"
+			}
+		},
+		{
+			"name": "Voldaren Striker",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Vampire Warrior",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/50_Voldaren Striker.png"
+			}
+		},
+		{
+			"name": "Wildgrowth Adept",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/62_Wildgrowth Adept.png"
+			}
+		},
+		{
+			"name": "Reaper of Death",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Skeleton Wizard",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/37_Reaper of Death.png"
+			}
+		},
+		{
+			"name": "Blade Dancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/64_Blade Dancer.png"
+			}
+		},
+		{
+			"name": "Truffle Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Boar",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/61_Truffle Hunter.png"
+			}
+		},
+		{
+			"name": "Swarming Goblin",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Goblin",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/49_Swarming Goblin.png"
+			}
+		},
+		{
+			"name": "Master Hopper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Rabbit",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/20_Master Hopper.png"
+			}
+		},
+		{
+			"name": "Meditation of Thassa",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/21_Meditation of Thassa.png"
+			}
+		},
+		{
+			"name": "Final Gambit",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/44_Final Gambit.png"
+			}
+		},
+		{
+			"name": "Fourth Player's Key",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/17_Fourth Player's Key.png"
+			}
+		},
+		{
+			"name": "Moondrop Construct",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/4_Moondrop Construct.png"
+			}
+		},
+		{
+			"name": "Arcbound Prism",
+			"rarity": "common",
+			"mana_cost": "{X}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/86_Arcbound Prism.png"
+			}
+		},
+		{
+			"name": "Solar Plant",
+			"rarity": "common",
+			"mana_cost": "{X}",
+			"type": "Artifact",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/91_Solar Plant.png"
+			}
+		},
+		{
+			"name": "Oni of the Blade",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Spirit Samurai",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/35_Oni of the Blade.png"
+			}
+		},
+		{
+			"name": "Spirited Devout",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/11_Spirited Devout.png"
+			}
+		},
+		{
+			"name": "Path of Stars",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/6_Path of Stars.png"
+			}
+		},
+		{
+			"name": "Ninja of the Hidden Wind",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Shapeshifter Ninja",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/23_Ninja of the Hidden Wind.png"
+			}
+		},
+		{
+			"name": "Hydra of the Devouring",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/54_Hydra of the Devouring.png"
+			}
+		},
+		{
+			"name": "Sakura Blossom",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Plant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/8_Sakura Blossom.png"
+			}
+		},
+		{
+			"name": "Endless Ranks of the Living",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/2_Endless Ranks of the Living.png"
+			}
+		},
+		{
+			"name": "Efficient Fisherman",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}{U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/67_Efficient Fisherman.png"
+			}
+		},
+		{
+			"name": "Ranger's Gathering",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/77_Ranger's Gathering.png"
+			}
+		},
+		{
+			"name": "The False Grail",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/89_The False Grail.png"
+			}
+		},
+		{
+			"name": "Crystal of Refraction",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/15_Crystal of Refraction.png"
+			}
+		},
+		{
+			"name": "Searcher of the Damned",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/80_Searcher of the Damned.png"
+			}
+		},
+		{
+			"name": "Guardian of the Plains",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Centaur Warrior",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/73_Guardian of the Plains.png"
+			}
+		},
+		{
+			"name": "Spirit of the Machine",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Construct Horror",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/38_Spirit of the Machine.png"
+			}
+		},
+		{
+			"name": "Thousand Year Replicant",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/82_Thousand Year Replicant.png"
+			}
+		},
+		{
+			"name": "Unassuming Tuxedo",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/92_Unassuming Tuxedo.png"
+			}
+		},
+		{
+			"name": "Masked of Duskmourn",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Human Ally",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/76_Masked of Duskmourn.png"
+			}
+		},
+		{
+			"name": "Rogue Opportunist",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/47_Rogue Opportunist.png"
+			}
+		},
+		{
+			"name": "Growth",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/84_Growth.png"
+			}
+		},
+		{
+			"name": "Moonlight Merchant",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Spellshaper",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/34_Moonlight Merchant.png"
+			}
+		},
+		{
+			"name": "Dragon of the Dawn",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/43_Dragon of the Dawn.png"
+			}
+		},
+		{
+			"name": "Friend of the Forest",
+			"rarity": "common",
+			"mana_cost": "{1}{WU}{WU}",
+			"type": "Creature — Spirit Noble",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/83_Friend of the Forest.png"
+			}
+		},
+		{
+			"name": "Temporary Reprieve",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/12_Temporary Reprieve.png"
+			}
+		},
+		{
+			"name": "Gaze into Eternity",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/29_Gaze into Eternity.png"
+			}
+		},
+		{
+			"name": "Phyrexian Thinker",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Phyrexian Ally",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/7_Phyrexian Thinker.png"
+			}
+		},
+		{
+			"name": "Return to Spirit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/79_Return to Spirit.png"
+			}
+		},
+		{
+			"name": "Chi Block",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant — Lesson",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/14_Chi Block.png"
+			}
+		},
+		{
+			"name": "Arcing Blaze",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/40_Arcing Blaze.png"
+			}
+		},
+		{
+			"name": "Spore Shaman",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Fungus",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/58_Spore Shaman.png"
+			}
+		},
+		{
+			"name": "Shieldbearer's Guide",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Ally Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/10_Shieldbearer's Guide.png"
+			}
+		},
+		{
+			"name": "Arcanum Boots",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/39_Arcanum Boots.png"
+			}
+		},
+		{
+			"name": "Rathmari Protector",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/56_Rathmari Protector.png"
+			}
+		},
+		{
+			"name": "Mind's Release",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Flareporeon.github.io/sets/ATR-files/img/22_Mind's Release.png"
+			}
+		},
+	]
+
+[rare(1)]
+	2 The Everyman's Guide
+	2 The Aegis Shield
+	2 Searching the Stories
+	2 Demon of the Ritual
+	2 Fireburst
+	2 Endless Ranks of the Living
+	2 Efficient Fisherman
+	2 Ranger's Gathering
+	2 The False Grail
+	2 Thousand Year Replicant
+	2 Masked of Duskmourn
+	2 Moonlight Merchant
+	2 Dragon of the Dawn
+[uncommon(4)]
+	4 Ravnican Titan
+	4 Earthen Surge
+	4 Jynn, Protector of the Nest
+	4 Rugged Tigress
+	4 Darksteel's Ambition
+	4 Bog-Sworn Defender
+	4 Brain Sprout
+	4 Broken Mimic
+	4 Heroic Knight
+	4 Charged Dreadmaw
+	4 Streetside Brawl
+	4 Capture Ball
+	4 Marauding Killer
+	4 Lurking Devout
+	4 Bringer of Death
+	4 A Fleeting Life
+	4 Othrenn's Protection
+	4 Gravetender
+	4 Wildgrowth Adept
+	4 Blade Dancer
+	4 Master Hopper
+	4 Fourth Player's Key
+	4 Moondrop Construct
+	4 Ninja of the Hidden Wind
+	4 Hydra of the Devouring
+	4 Crystal of Refraction
+	4 Searcher of the Damned
+	4 Guardian of the Plains
+	4 Unassuming Tuxedo
+	4 Return to Spirit
+	4 Shieldbearer's Guide
+	4 Rathmari Protector
+[common(7)]
+	8 Drainer of Hope
+	8 It That Approaches
+	8 Barbed Devil
+	8 Elvish Ranger
+	8 Rathmar's Reclaimer
+	8 Parental Dreadmaw
+	8 Elven Planner
+	8 Sneaky Thief
+	8 Orc Gourmand
+	8 Pavel's Talisman
+	8 Chandra's Bolt
+	8 What May Come
+	8 It That Watches
+	8 Xyn, Phasing Elite
+	8 Knowledge in Death
+	8 Frozen Over
+	8 Treebound Sliver
+	8 Flicker Strike
+	8 Inspiring Verse
+	8 Thran Factory
+	8 Ice Block
+	8 Goblin Wayfinder
+	8 Coinshot
+	8 Thieving Rodent
+	8 Voldaren Striker
+	8 Reaper of Death
+	8 Truffle Hunter
+	8 Swarming Goblin
+	8 Meditation of Thassa
+	8 Final Gambit
+	8 Arcbound Prism
+	8 Solar Plant
+	8 Oni of the Blade
+	8 Spirited Devout
+	8 Path of Stars
+	8 Sakura Blossom
+	8 Spirit of the Machine
+	8 Rogue Opportunist
+	8 Growth
+	8 Friend of the Forest
+	8 Temporary Reprieve
+	8 Gaze into Eternity
+	8 Phyrexian Thinker
+	8 Chi Block
+	8 Arcing Blaze
+	8 Spore Shaman
+	8 Arcanum Boots
+	8 Mind's Release
+[wildcard(2)]
+	5 Drainer of Hope
+	5 The Everyman's Guide
+	5 Ravnican Titan
+	5 Earthen Surge
+	5 It That Approaches
+	5 Barbed Devil
+	5 Jynn, Protector of the Nest
+	5 Rugged Tigress
+	5 Darksteel's Ambition
+	5 Elvish Ranger
+	5 The Aegis Shield
+	5 Rathmar's Reclaimer
+	5 Bog-Sworn Defender
+	5 Parental Dreadmaw
+	5 Elven Planner
+	5 Brain Sprout
+	5 Searching the Stories
+	5 Broken Mimic
+	5 Sneaky Thief
+	5 Orc Gourmand
+	5 Demon of the Ritual
+	5 Pavel's Talisman
+	5 Chandra's Bolt
+	5 What May Come
+	5 It That Watches
+	5 Heroic Knight
+	5 Charged Dreadmaw
+	5 Xyn, Phasing Elite
+	5 Streetside Brawl
+	5 Capture Ball
+	5 Knowledge in Death
+	5 Frozen Over
+	5 Treebound Sliver
+	5 Fireburst
+	5 Marauding Killer
+	5 Flicker Strike
+	5 Inspiring Verse
+	5 Lurking Devout
+	5 Thran Factory
+	5 Ice Block
+	5 Bringer of Death
+	5 A Fleeting Life
+	5 Goblin Wayfinder
+	5 Coinshot
+	5 Othrenn's Protection
+	5 Gravetender
+	5 Thieving Rodent
+	5 Voldaren Striker
+	5 Wildgrowth Adept
+	5 Reaper of Death
+	5 Blade Dancer
+	5 Truffle Hunter
+	5 Swarming Goblin
+	5 Master Hopper
+	5 Meditation of Thassa
+	5 Final Gambit
+	5 Fourth Player's Key
+	5 Moondrop Construct
+	5 Arcbound Prism
+	5 Solar Plant
+	5 Oni of the Blade
+	5 Spirited Devout
+	5 Path of Stars
+	5 Ninja of the Hidden Wind
+	5 Hydra of the Devouring
+	5 Sakura Blossom
+	5 Endless Ranks of the Living
+	5 Efficient Fisherman
+	5 Ranger's Gathering
+	5 The False Grail
+	5 Crystal of Refraction
+	5 Searcher of the Damned
+	5 Guardian of the Plains
+	5 Spirit of the Machine
+	5 Thousand Year Replicant
+	5 Unassuming Tuxedo
+	5 Masked of Duskmourn
+	5 Rogue Opportunist
+	5 Growth
+	5 Moonlight Merchant
+	5 Dragon of the Dawn
+	5 Friend of the Forest
+	5 Temporary Reprieve
+	5 Gaze into Eternity
+	5 Phyrexian Thinker
+	5 Return to Spirit
+	5 Chi Block
+	5 Arcing Blaze
+	5 Spore Shaman
+	5 Shieldbearer's Guide
+	5 Arcanum Boots
+	5 Rathmari Protector
+	5 Mind's Release
